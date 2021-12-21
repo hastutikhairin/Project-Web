@@ -27,6 +27,7 @@ ul, ol, image, p {
     padding: 0;
     overflow: hidden;
     background-color: #333;
+    float: right;
 }
 .li{
     float: left;
