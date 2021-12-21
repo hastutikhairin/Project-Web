@@ -46,3 +46,18 @@ a:hover {
     margin: 0;
     padding: 0;
 }
+/* table tr td head{
+    border: 1px solid black;
+    max-width: 500px;
+    margin: 0 auto;
+    border-collapse: collapse;
+    background-color: #333;
+    color: white;
+} */
+.footer {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    margin-top: 15px;
+}
