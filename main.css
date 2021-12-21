@@ -10,3 +10,6 @@ hr {
     width: 30%;
     border-color: darkcyan;
 }
+h1, h2 {
+    text-align: center;
+}
