@@ -113,6 +113,13 @@ h1 {
     margin-bottom: 100px;
 }
 
+.form-contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
 .footer {
     background-color: #333;
     padding: 10px;
