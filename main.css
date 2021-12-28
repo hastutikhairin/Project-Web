@@ -93,7 +93,10 @@ tr:hover {
 .footer {
     background-color: #333;
     padding: 10px;
-
     color: white;
     margin-top: 15px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
