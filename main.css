@@ -1,5 +1,5 @@
 body {
-    background-color: aliceblue;
+    background-color: whitesmoke;
 }
 
 hr {
@@ -103,6 +103,14 @@ h1 {
 .content-form {
     max-width: 70%;
     margin: auto;
+}
+
+.form-login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    margin-bottom: 100px;
 }
 
 .footer {
