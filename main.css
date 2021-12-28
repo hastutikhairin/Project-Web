@@ -1,6 +1,7 @@
 body {
     background-color: aliceblue;
 }
+
 hr {
     margin-top: 50px;
     margin-bottom: 50px;
@@ -10,10 +11,17 @@ hr {
     width: 30%;
     border-color: darkcyan;
 }
-h1, h2, h3 {
+
+h1,
+h2,
+h3 {
     text-align: center;
 }
-ul, ol, image, p {
+
+ul,
+ol,
+image,
+p {
     display: block;
     max-width: 500px;
     margin-top: 0;
@@ -21,6 +29,7 @@ ul, ol, image, p {
     margin-right: auto;
     margin-left: auto;
 }
+
 #navbar {
     list-style-type: none;
     margin: 0;
@@ -28,10 +37,14 @@ ul, ol, image, p {
     overflow: hidden;
     background-color: #333;
     float: right;
+    position: sticky;
+    top: 0;
 }
-.li{
+
+.li {
     float: left;
 }
+
 li a {
     display: block;
     color: white;
@@ -39,37 +52,48 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 }
+
 a:hover {
     background-color: black;
 }
+
 * {
     margin: 0;
     padding: 0;
 }
-table,tr,td,th{
+
+table,
+tr,
+td,
+th {
     border: 1px solid black;
 }
+
 table {
     max-width: 500px;
     margin: 0 auto;
     border-collapse: collapse;
 }
+
 th {
     text-align: center;
     background-color: #333;
     color: white;
 }
+
 td {
     padding: 15px;
     text-align: left;
 }
+
 tr:hover {
     background-color: #f5f5f5;
 }
+
 .footer {
     background-color: #333;
     padding: 10px;
-    
+
     color: white;
     margin-top: 15px;
 }
