@@ -49,3 +49,22 @@ console.log('false || true =', false || true) //false atau true adalah true
 console.log('false || false =', false || false) //false atau false adalah false
 console.log('!true =', !true) //tidak true adalah false
 console.log('!false =', !false) //tidak false adalah true
+
+//fungsi sederhana
+//luas persegi
+function luas_persegi (s){
+    return s*s
+}
+
+//luas segitga
+function luas_segitiga (a, t){
+    return 0.5 * a * t
+}
+
+//volume balok
+function volume_balok (p*l*t){
+    return p*l*t
+}
+console.log("luas persegi =" + luas_persegi(5))
+console.log("luas segitiga =" + luas_segitiga(10,5))
+console.log("volume balok =" + volume_balok(20,6,5))
