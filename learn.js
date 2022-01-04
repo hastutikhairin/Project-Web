@@ -37,3 +37,15 @@ console.log('a == b =', a == b) //nilai a Equal to atau sama dengan nilai b adal
 console.log('a != b =', a != b) //nilai a Not Equal to atau tidak sama dengan nilai b adalah true
 console.log('a === b =', a === b) //nilai a Equal value and equal type atau nilai yang sama dan jenis yang sama dengan nilai b adalah false
 console.log('a !== b =', a !== b) //nilai a Not Equal value and not equal type to dengan nilai b adalah true
+
+//menentukan pernytaan salah atau benar
+console.log('true && true =', true && true) // true dan true adalah true 
+console.log('true && false =', true && false) //true dan false adalah false
+console.log('false && true =', false && true) //false dan true adalah false
+console.log('false && false =', false && false) //false dan false adalah false
+console.log('true || true =', true || true) //true atau true adalah true
+console.log('true || false =', true || false) //true atau false adalah true
+console.log('false || true =', false || true) //false atau true adalah true
+console.log('false || false =', false || false) //false atau false adalah false
+console.log('!true =', !true) //tidak true adalah false
+console.log('!false =', !false) //tidak false adalah true
