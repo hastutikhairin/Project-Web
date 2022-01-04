@@ -12,3 +12,16 @@ console.log(phi);
 window.alert("Angka favorit saya adalah : " + myNumber);
 window.alert('Angka favorit saya adalah : ' + myNumber);
 window.alert(`Angka favorit saya adalah : ${myNumber}`);
+
+let x = 10
+let y = 4
+console.log(x, y)
+console.log('x + y =', x + y) //Addition nilai x dengan y adalah 14 
+console.log('x - y =', x - y) //Subtraction nilai x dengan y adalah 6
+console.log('x * y =', x * y) //Multiplication nilai x dengan y adalah 40
+console.log('x / y =', x / y) //Division nilai x dengan y adalah 2.5
+console.log('x % y =', x % y) //Modulus nilai x dengan y adalah 2
+console.log('x++ =', x++) //Increment nilai x dengan y adalah 10
+console.log('++x =', ++x) //Increment nilai x dengan y adalah 12
+console.log('x-- =', x--) //Decrement nilai x dengan y adalah 12
+console.log('--x =', --x) //Decrement nilai x dengan y adalah 10
