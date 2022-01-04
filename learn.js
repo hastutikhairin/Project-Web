@@ -25,3 +25,15 @@ console.log('x++ =', x++) //Increment nilai x dengan y adalah 10
 console.log('++x =', ++x) //Increment nilai x dengan y adalah 12
 console.log('x-- =', x--) //Decrement nilai x dengan y adalah 12
 console.log('--x =', --x) //Decrement nilai x dengan y adalah 10
+
+let a = 12
+let b = 4
+console.log(a, b)
+console.log('a > b =', a > b) //nilai a Greater than atau lebih dari nilai b adalah true
+console.log('a < b =', a < b) //nilai a Less than atau kurang dari nilai b adalah false
+console.log('a >= b =', a >= b) //nilai a Greater than or equal to atau lebih dari sama dengan nilai b adalah true
+console.log('a <= b =', a <= b) //nilai a Less than or equal to atau kurang dari sama dengan nilai b adalah true
+console.log('a == b =', a == b) //nilai a Equal to atau sama dengan nilai b adalah false
+console.log('a != b =', a != b) //nilai a Not Equal to atau tidak sama dengan nilai b adalah true
+console.log('a === b =', a === b) //nilai a Equal value and equal type atau nilai yang sama dan jenis yang sama dengan nilai b adalah false
+console.log('a !== b =', a !== b) //nilai a Not Equal value and not equal type to dengan nilai b adalah true
